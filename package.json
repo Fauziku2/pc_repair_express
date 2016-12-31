@@ -1,0 +1,17 @@
+{
+  "name": "pc_repair_express",
+  "version": "1.0.0",
+  "description": "pc repair using express framework",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fauzi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "body-parser": "*",
+    "jade": "*",
+    "nodemailer": "*"
+  }
+}
